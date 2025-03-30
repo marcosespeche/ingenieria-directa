@@ -11,13 +11,13 @@ Acá te explico cómo descargar el código para que puedas tenerlo en tu máquin
 
 ### Requisitos Previos
 
-Antes de clonar el repositorio, asegúrate de tener instalado lo siguiente:
+Antes de clonar el repositorio, asegúrate de tener instaladas las siguientes dependencias:
 
-- [Git](https://git-scm.com/downloads) (versión 2.x o superior)
-- [Java](https://www.oracle.com/ar/java/technologies/downloads/#java24) (versión 21)
+- [Git](https://git-scm.com/downloads)
+- [Java](https://www.oracle.com/ar/java/technologies/downloads/#java24)
 - El IDE de tu preferencia. Por ejemplo IntelliJ Idea, NetBeans, Eclipse, Visual Studio Code, etc.
 
-Si no querés instalar Git, podés descargar el repositorio comprimido en un archivo .zip desde la interfaz de la página web.
+Si no querés instalar Git, podés descargar el repositorio comprimido en un archivo .zip desde la interfaz de la página web y luego descomprimirlo.
 
 ### Clonar el Repositorio
 
