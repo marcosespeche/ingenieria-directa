@@ -15,7 +15,7 @@ Antes de clonar el repositorio, asegúrate de tener instaladas las siguientes de
 
 - [Git](https://git-scm.com/downloads)
 - [Java](https://www.oracle.com/ar/java/technologies/downloads/#java24)
-- El IDE de tu preferencia. Por ejemplo IntelliJ Idea, NetBeans, Eclipse, Visual Studio Code, etc.
+- El IDE de tu preferencia. Por ejemplo [IntelliJ Idea](https://www.jetbrains.com/idea/download/?section=windows) (Community Edition), [NetBeans](https://netbeans.apache.org/front/main/download/), [Eclipse](https://www.eclipse.org/downloads/packages/), [Visual Studio Code](https://code.visualstudio.com/download), etc.
 
 Si no querés instalar Git, podés descargar el repositorio comprimido en un archivo .zip desde la interfaz de la página web y luego descomprimirlo.
 
