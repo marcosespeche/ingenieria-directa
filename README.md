@@ -11,24 +11,24 @@ Acá te explico cómo descargar el código para que puedas tenerlo en tu máquin
 
 ### Requisitos Previos
 
-Antes de clonar el repositorio, asegúrate de tener instalado lo siguiente:
+Antes de clonar el repositorio, asegurate de tener instaladas las siguientes dependencias:
 
-- [Git](https://git-scm.com/) (versión 2.x o superior)
-- [Java](https://nodejs.org/) (versión 21)
-- El IDE de tu preferencia. Por ejemplo IntelliJ Idea, NetBeans, Eclipse, Visual Studio Code, etc.
+- [Git](https://git-scm.com/downloads)
+- [Java](https://www.oracle.com/ar/java/technologies/downloads/#java24)
+- El IDE de tu preferencia. Por ejemplo [IntelliJ Idea](https://www.jetbrains.com/idea/download/?section=windows) (Community Edition), [NetBeans](https://netbeans.apache.org/front/main/download/), [Eclipse](https://www.eclipse.org/downloads/packages/), [Visual Studio Code](https://code.visualstudio.com/download), etc.
 
-Si no querés instalar Git, podés descargar el repositorio comprimido en un archivo .zip desde la interfaz de la página web.
+Si no querés instalar Git, podés descargar el proyecto comprimido en un archivo .zip desde la interfaz de la página web.
 
 ### Clonar el Repositorio
 
-Sigue estos pasos para clonar el repositorio:
+Seguí estos pasos para clonar el repositorio:
 
-1. Navega al directorio donde deseas clonar el repositorio y abre una terminal
+1. Navegá al directorio donde quieras clonar el repositorio y abrí una terminal
    
-2. Ejecuta el siguiente comando:
+2. Ejecutá el siguiente comando:
 
    ```bash
-   git clone https://github.com/marcosespeche/intenieria-directa.git
+   git clone https://github.com/marcosespeche/ingenieria-directa.git
 
-3. Abre el proyecto utilizando tu IDE de confianza
+3. Abrí el proyecto utilizando tu IDE de confianza
    
