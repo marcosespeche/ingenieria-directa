@@ -12,10 +12,20 @@ public class ReclamoPaso {
 
     private EstadoReclamoPaso estadoReclamoPaso;
 
+    private Especialista especialista;
+
     public ReclamoPaso(int orden, LocalDateTime fechaHoraInicio, LocalDateTime fechaHoraFin) {
         this.orden = orden;
         this.fechaHoraInicio = fechaHoraInicio;
         this.fechaHoraFin = fechaHoraFin;
+    }
+
+    public Especialista getEspecialista() {
+        return especialista;
+    }
+
+    public void setEspecialista(Especialista especialista) {
+        this.especialista = especialista;
     }
 
     public EstadoReclamoPaso getEstadoReclamoPaso() {
